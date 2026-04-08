@@ -97,12 +97,3 @@ After training and evaluation, the model demonstrates excellent performance in c
 
 ## Contributing
 This is an educational project. Feel free to fork and modify for your own learning purposes.
-
-## License
-This project is for educational purposes only.
-
-## Author
-Sanjana Singh
-
-## Date
-April 2026
